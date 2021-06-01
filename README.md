@@ -1,26 +1,27 @@
 # Laboratorio_1
 
-__1. Objetivos
+__1. Objetivos__
 
 Objetivos Generales 
 
 Objetivos Específicos 
 
-__2. Marco Teórico 
+__2. Marco Teórico__ 
 
 
 
-__3. Explicación del Procedimiento 
+__3. Explicación del Procedimiento__
 
 
-__4. Respuesta a Interrogantes y Calculo de Error 
+__4. Respuesta a Interrogantes y Calculo de Error__
 
 
-__5. Video
+__5. Video__
 
 
-__6. Coclusiones 
+__6. Coclusiones__ 
 
 
-__7. Bibliografía
+__7. Bibliografía__
+
 *
