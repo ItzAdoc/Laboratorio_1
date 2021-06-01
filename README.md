@@ -43,4 +43,6 @@ __6. Coclusiones__
 
 __7. Bibliografía__
 
-*
+* Robbins, A. H. (2008). Análisis de Circuitos Teoría y Práctica. Santa Fe-México: Cengage Learning. 
+* Mantilla Quijano, G., & González, H. (1977). La segunda ley de Kirchhoff.
+* *Las leyes de Kirchhoff (artículo). (s. f.).* Khan Academy. Recuperado 2 de junio de 2021, de https://es.khanacademy.org/science/physics/circuits-topic/circuits-resistance/a/ee-kirchhoffs-laws
