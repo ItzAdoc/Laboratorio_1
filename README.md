@@ -18,11 +18,19 @@ __4. Respuesta a Interrogantes y Calculo de Error__
 | Variable |Valor Calculado | Valor Medido |
 |----------|----------------|--------------|
 | VR1(V)   |                |              |
-| IR1(mA)   |                |              |
-| VR1(V)   |                |              |
-| VR1(V)   |                |              |
-| VR1(V)   |                |              |
-| VR1(V)   |                |              |
+| IR1(mA)  |                |              |
+| VR2(V)   |                |              |
+| VR2(V)   |                |              |
+| IR2(mA)  |                |              |
+| VR3(V)   |                |              |
+| IR3(mA)  |                |              |
+| VR4(V)   |                |              |
+| IR4(mA)  |                |              |
+| VR5(V)   |                |              |
+| IR5(mA)  |                |              |
+
+
+
 
 
 __5. Video__
