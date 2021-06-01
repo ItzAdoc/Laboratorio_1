@@ -16,6 +16,7 @@ __3. Explicación del Procedimiento__
 __4. Respuesta a Interrogantes y Calculo de Error__
 
 | Variable |Valor Calculado | Valor Medido |
+|----------|----------------|--------------|
 | VR1(V)   |                |              |
 
 
