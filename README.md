@@ -7,6 +7,7 @@ Objetivos Generales
 Objetivos Específicos 
 
 __2. Marco Teórico__ 
+![](https://github.com/ItzAdoc/Laboratorio_1/blob/main/Marco%20Teorico.PNG)
 
 
 
