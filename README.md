@@ -32,11 +32,15 @@ __4. Respuesta a Interrogantes y Calculo de Error__
 
 
 
-| Voltaje  |Trayectoria  1 |         | Trayectoria 2  |           | Trayectoria 3   |          |
-|----------|---------------|---------|----------------|-----------|-----------------|----------|
-|          | Calculado     |  Medido | Calculado      |  Medido   | Calculado       |  Medido  |
-|----------|---------------|---------|----------------|-----------|-----------------|----------|
-|   VT(V)  |               |         |                |           |                 |          |
+| Voltaje  |Trayectoria    |  1        | Trayectoria 2  |           | Trayectoria 3   |          |
+|----------|---------------|-----------|----------------|-----------|-----------------|----------|
+|          | Calculado     |  Medido   | Calculado      |  Medido   | Calculado       |  Medido  |
+|   VT(V)  |               |           |                |           |                 |          |
+|   VR1(V) |               |           |                |           |                 |          |
+|   VR2(V) |               |           |                |           |                 |          |
+|   VR3(V) |               |           |                |           |                 |          |
+|   VR4(V) |               |           |                |           |                 |          |
+|   VR5(V) |               |           |                |           |                 |          |
 
 
 
