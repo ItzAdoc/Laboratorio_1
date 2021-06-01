@@ -33,9 +33,8 @@ __4. Respuesta a Interrogantes y Calculo de Error__
 
 
 | Voltaje  |Trayectoria 1       | Trayectoria 2      | Trayectoria 3      |
+
 |          | Calculado | Medido | Calculado | Medido | Calculado | Medido |
-
-
 
 |----------|-----------|--------|-----------|--------|-----------|--------|
 
