@@ -52,18 +52,23 @@ Reducimos el circuito para facilitarnos la medición del voltaje y la corriente 
 
 La resistencia R3 Y R4 están en serie: 
 2,2KΩ + 2,2kΩ= 4,4kΩ
+
 y 4,4kΩ está en paralelo con 3,9kΩ:
 
 ![](https://github.com/ItzAdoc/Laboratorio_1/blob/main/1.PNG)
 
 Aplicamos la ley de tensiones de Kirchhoff, con la cual podremos despear la corriente que pasa por el circuito reducido.
+
 +10+V1+V2+V3=0
+
 +10+1ki+2,06ki+1,8ki=0
+
 10+4860i=0
 
 ![](https://github.com/ItzAdoc/Laboratorio_1/blob/main/2.PNG)
 
 Una vez obtenido la corriente podemos aplicar la ley de ohm para conseguir el voltaje de cada resistencia del circuito reducido.
+
 V=I*R
 
 V (R1) =2m (1kΩ) = 2V
@@ -78,7 +83,9 @@ Ya conociendo la corriente que circula por el circuito reducido, tenemos que vol
 ![](https://github.com/ItzAdoc/Laboratorio_1/blob/main/3.PNG)
 
 Y una vez obtenido la corriente que pasa por las resistencias 3 y 4 ya podemos aplicar la ley de ohm para conseguir el voltaje de las resistencias.
+
 V (R3) =339μ A (2,2kΩ) = 2,06V
+
 V (R4) =930μ A (2,2kΩ) = 2,06V
 
 Tabla 1.1. Resultados obtenidos de voltaje y corriente, en cada elemento del circuito.
@@ -108,18 +115,33 @@ Trayectoria 2
 
 Trayectoria 3 
 
-![](
+![](https://github.com/ItzAdoc/Laboratorio_1/blob/main/T3.1.PNG)
 
 ![](https://github.com/ItzAdoc/Laboratorio_1/blob/main/V%20Trayectoria%203.PNG)
 
-
-
-
-
-
-
 **1.5.4 verifique si se cumple la ley de Kirchhoff de corrientes en cada nodo, tomando con signo positivo a las corrientes que entran al nodo y con signo negativo las que salen del nodo Anote los resultados en la tabla 1.3.**
 
+Nodo 1
+
+![](https://github.com/ItzAdoc/Laboratorio_1/blob/main/Nodo%201.PNG)
+
+![](https://github.com/ItzAdoc/Laboratorio_1/blob/main/Nodo%201%20Corriente.PNG)
+
+
+Nodo 2 
+
+![](https://github.com/ItzAdoc/Laboratorio_1/blob/main/Nodo%202.PNG)
+
+![](https://github.com/ItzAdoc/Laboratorio_1/blob/main/Nodo%202%20Corriente.PNG)
+
+
+Cálculo de error de voltaje 
+
+![](https://github.com/ItzAdoc/Laboratorio_1/blob/main/Error%20Voltaje.PNG)
+
+Cálculo de error de voltaje 
+
+![](https://github.com/ItzAdoc/Laboratorio_1/blob/main/Error%20Amperaje.PNG)
 
 __5. Video__
 
