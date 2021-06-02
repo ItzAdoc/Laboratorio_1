@@ -139,7 +139,7 @@ Cálculo de error de voltaje
 
 ![](https://github.com/ItzAdoc/Laboratorio_1/blob/main/Error%20Voltaje.PNG)
 
-Cálculo de error de voltaje 
+Cálculo de error de aperaje 
 
 ![](https://github.com/ItzAdoc/Laboratorio_1/blob/main/Error%20Amperaje.PNG)
 
