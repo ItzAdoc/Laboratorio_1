@@ -30,7 +30,7 @@ La medición del voltaje se lo hizo de forma paralela como se ve a continuación
 
 La medición del amperaje se lo hizo de forma serie como se ve a continuación:
 
-![](https://github.com/ItzAdoc/Laboratorio_1/blob/main/Medi%20A.PNG)
+![](https://github.com/ItzAdoc/Laboratorio_1/blob/main/Medi%20Serie.PNG)
 
 Y por último, los valores de las resistencias y fuente de alimentación vienen dado por la figura 1.1.
 
