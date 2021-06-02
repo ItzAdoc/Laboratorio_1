@@ -50,7 +50,9 @@ Aplicamos la ley de tensiones de Kirchhoff, con la cual podremos despear la corr
 Una vez obtenido la corriente podemos aplicar la ley de ohm para conseguir el voltaje de cada resistencia del circuito reducido.
 V=I*R
 V (R1) =2m (1kΩ) = 2V
+
 V (R2) =2m (2,06kΩ) = 4,12V
+
 V (R5) =2m (1,8kΩ) = 3,6V
 
 
