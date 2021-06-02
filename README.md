@@ -93,26 +93,24 @@ signo negativo. Anote los resultados en la tabla 1.2.**
 
 Trayectoria 1
 
-+10+V1+V2+V3=0
+![](https://github.com/ItzAdoc/Laboratorio_1/blob/main/Grafico%20T1.PNG)
 
-+10+1ki+2, 06ki+1, 8ki=0
+![](https://github.com/ItzAdoc/Laboratorio_1/blob/main/T1.PNG)
 
-10+4860i=0
 
-![]()
+![](https://github.com/ItzAdoc/Laboratorio_1/blob/main/V%20Trayectoria%201.PNG)
 
-+10v=V1+V2+V3
+Trayectoria 2 
 
-+10v=2v+4, 12v+3, 6
+![](https://github.com/ItzAdoc/Laboratorio_1/blob/main/T2.PNG)
 
-+10v=9, 96
+![](https://github.com/ItzAdoc/Laboratorio_1/blob/main/V%20Trayectoria%202.PNG)
 
-V (R1) =2m (1kΩ) = 2V
+Trayectoria 3 
 
-V (R2) =2m (2,06kΩ) = 4,12V
+![](
 
-V (R5) =2m (1,8kΩ) = 3,6V
-
+![](https://github.com/ItzAdoc/Laboratorio_1/blob/main/V%20Trayectoria%203.PNG)
 
 
 
@@ -120,7 +118,7 @@ V (R5) =2m (1,8kΩ) = 3,6V
 
 
 
-
+**1.5.4 verifique si se cumple la ley de Kirchhoff de corrientes en cada nodo, tomando con signo positivo a las corrientes que entran al nodo y con signo negativo las que salen del nodo Anote los resultados en la tabla 1.3.**
 
 
 __5. Video__
