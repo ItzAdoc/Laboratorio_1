@@ -28,7 +28,7 @@ La medición del voltaje se lo hizo de forma paralela como se ve a continuación
 
 ![](https://github.com/ItzAdoc/Laboratorio_1/blob/main/Medi%20V.PNG)
 
-
+La medición del amperaje se lo hizo de forma serie como se ve a continuación:
 
 __4. Respuesta a Interrogantes y Calculo de Error__
 
