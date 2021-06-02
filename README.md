@@ -21,7 +21,7 @@ __2. Marco Teórico__
 __3. Explicación del Procedimiento__
 
 Se armó el circuito 
-
+a
 ![](https://github.com/ItzAdoc/Laboratorio_1/blob/main/Circuito%20Pro.PNG)
 
 La medición del voltaje se lo hizo de forma paralela como se ve a continuación:
