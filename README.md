@@ -20,6 +20,18 @@ __2. Marco Teórico__
 
 __3. Explicación del Procedimiento__
 
+Se armó el circuito 
+
+![](https://github.com/ItzAdoc/Laboratorio_1/blob/main/Circuito%20Pro.PNG)
+
+La medición del voltaje se lo hizo de forma paralela como se ve a continuación:
+
+![](https://github.com/ItzAdoc/Laboratorio_1/blob/main/Medi%20V.PNG)
+
+
+
+__4. Respuesta a Interrogantes y Calculo de Error__
+
 1.5.1 Arme el cirucito que se muestra en la figura 1.1
 
 ![](https://github.com/ItzAdoc/Laboratorio_1/blob/main/Figura%201.1.PNG)
@@ -49,6 +61,7 @@ Aplicamos la ley de tensiones de Kirchhoff, con la cual podremos despear la corr
 
 Una vez obtenido la corriente podemos aplicar la ley de ohm para conseguir el voltaje de cada resistencia del circuito reducido.
 V=I*R
+
 V (R1) =2m (1kΩ) = 2V
 
 V (R2) =2m (2,06kΩ) = 4,12V
@@ -74,7 +87,7 @@ signo negativo. Anote los resultados en la tabla 1.2.**
 
 Tabla 1.2. Verificación de la LVK.
 
-__4. Respuesta a Interrogantes y Calculo de Error__
+
 
 
 
