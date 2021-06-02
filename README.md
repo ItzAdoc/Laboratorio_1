@@ -90,7 +90,7 @@ V (R4) =930μ A (2,2kΩ) = 2,06V
 
 Tabla 1.1. Resultados obtenidos de voltaje y corriente, en cada elemento del circuito.
 
-![](https://github.com/ItzAdoc/Laboratorio_1/blob/main/Tabla1.1..PNG)
+![](https://github.com/ItzAdoc/Laboratorio_1/blob/main/Tabla%201.11.PNG)
 
 **1.5.3. Verifique si se cumple la Ley de Kirchhoff de Voltajes en cada trayectoria cerrada,
 considerando las elevaciones de voltaje con signo positivo y las caídas de voltaje con
