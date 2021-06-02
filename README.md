@@ -25,12 +25,14 @@ __3. Explicación del Procedimiento__
 ![](https://github.com/ItzAdoc/Laboratorio_1/blob/main/Figura%201.1.PNG)
 
 Circuito Armado:
+
 ![](https://github.com/ItzAdoc/Laboratorio_1/blob/main/Circuito%20Armado.jpg)
 
 **1.5.2. Mida el voltaje y corriente en cada uno de los elementos del circuito.**
 
 Reducimos el circuito para facilitarnos la medición del voltaje y la corriente de las resistencias, entonces:
-![](tramo1)
+
+![](https://github.com/ItzAdoc/Laboratorio_1/blob/main/Tramo%201.PNG)
 
 La resistencia R3 Y R4 están en serie: 
 2,2KΩ + 2,2kΩ= 4,4kΩ
@@ -42,6 +44,7 @@ Aplicamos la ley de tensiones de Kirchhoff, con la cual podremos despear la corr
 +10+V1+V2+V3=0
 +10+1ki+2,06ki+1,8ki=0
 10+4860i=0
+
 ![](https://github.com/ItzAdoc/Laboratorio_1/blob/main/2.PNG)
 
 Una vez obtenido la corriente podemos aplicar la ley de ohm para conseguir el voltaje de cada resistencia del circuito reducido.
@@ -52,6 +55,7 @@ V (R5) =2m (1,8kΩ) = 3,6V
 
 
 Ya conociendo la corriente que circula por el circuito reducido, tenemos que volver a extender el circuito y aplicar la ley de división de corriente. Ya que  para obtener el voltaje que circula por las resistencias 3y4 tenemos que saber la corriente que pasan por las resistencias.
+
 ![](https://github.com/ItzAdoc/Laboratorio_1/blob/main/3.PNG)
 
 Y una vez obtenido la corriente que pasa por las resistencias 3 y 4 ya podemos aplicar la ley de ohm para conseguir el voltaje de las resistencias.
@@ -59,6 +63,7 @@ V (R3) =339μ A (2,2kΩ) = 2,06V
 V (R4) =930μ A (2,2kΩ) = 2,06V
 
 Tabla 1.1. Resultados obtenidos de voltaje y corriente, en cada elemento del circuito.
+
 ![](https://github.com/ItzAdoc/Laboratorio_1/blob/main/Tabla1.1..PNG)
 
 **1.5.3. Verifique si se cumple la Ley de Kirchhoff de Voltajes en cada trayectoria cerrada,
