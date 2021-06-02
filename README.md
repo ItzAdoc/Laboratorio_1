@@ -89,7 +89,30 @@ Tabla 1.1. Resultados obtenidos de voltaje y corriente, en cada elemento del cir
 considerando las elevaciones de voltaje con signo positivo y las caídas de voltaje con
 signo negativo. Anote los resultados en la tabla 1.2.**
 
-Tabla 1.2. Verificación de la LVK.
+**Tabla 1.2. Verificación de la LVK.**
+
+Trayectoria 1
+
++10+V1+V2+V3=0
+
++10+1ki+2, 06ki+1, 8ki=0
+
+10+4860i=0
+
+![]()
+
++10v=V1+V2+V3
+
++10v=2v+4, 12v+3, 6
+
++10v=9, 96
+
+V (R1) =2m (1kΩ) = 2V
+
+V (R2) =2m (2,06kΩ) = 4,12V
+
+V (R5) =2m (1,8kΩ) = 3,6V
+
 
 
 
